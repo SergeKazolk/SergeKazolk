@@ -11,25 +11,33 @@
  <div id="header" align="left">
    
 ## About me
-<h2 align="center">Political scientist with experience in:</h2>
+<h2 align="center">I’m a Political Scientist with diverse professional experience in:</h2>
 
-- Legislative analysis and stakeholder management in public institutions
-- Political consulting
-- Political communication
-- Project management
-- College professor
-- Python
-- Data Analyst
-- Amateur video editing in DaVinci Resolve
+Legislative analysis and stakeholder management in public institutions
 
-I'm currently in the final part of my Data Analyst course at TripleTen BootCamp, eager to apply my new knowledge.
+Political consulting and communication
 
-I'm also a technology and gaming enthusiast (building personal computers) and a Linux fanatic. I currently use Ubuntu, Pop OS!, and Ubuntu Budgie.
+Project and team management
+
+Teaching as a college professor
+
+<br><h3>I also bring strong technical skills in:</h3></br>
+
+Python
+
+Data Analysis
+
+Amateur video editing with DaVinci Resolve
+
+Currently, I’m in the final stage of my Data Analyst BootCamp at TripleTen, where I’m eager to apply my new skills to real-world projects.
+
+Beyond my professional journey, I’m a technology and gaming enthusiast, passionate about building personal computers and exploring the Linux ecosystem.
+I actively use Ubuntu, Pop!_OS, and Ubuntu Budgie in my daily workflow.
 
 ---
  <div id="header" align="left">
  
-<h2 aling="left">Contact</h2>
+<h2 aling="left">Contact me</h2>
 
 * :e-mail: sergiocasolco@gmail.com
 
