@@ -2,10 +2,22 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergiocasolco/">Sergio Casolco</a> 👋</h1>
 </div>
 
+<img src="Banner Linkedin Creativo Rayas Sencillo Verde.jpg">
+
+## About me
+- Political scientist with experience in:
+- Legislative analysis and stakeholder management in public institutions
+- Political consulting
+- Python
+- Data Analysis
+- College professor
+- 
+
 <!--
 **SergeKazolk/SergeKazolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-<img src="https://i.imgur.com/weNbhGZ.png">
+
+
+
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
