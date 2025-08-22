@@ -2,34 +2,42 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergiocasolco/">Sergio Casolco</a> 👋</h1>
 </div>
 
+---
+ <div id="header" align="left">
+
 <img src="Banner Linkedin Creativo Rayas Sencillo Verde_english.jpg">
 
+---
+ <div id="header" align="left">
+   
 ## About me
-- Political scientist with experience in:
+<h2 align="center">Political scientist with experience in:</h2>
+
 - Legislative analysis and stakeholder management in public institutions
 - Political consulting
-- Python
-- Data Analysis
+- Political communication
+- Project management
 - College professor
-- 
+- Python
+- Data Analyst
+- Amateur video editing in DaVinci Resolve
+
+I'm currently in the final part of my Data Analyst course at TripleTen BootCamp, eager to apply my new knowledge.
+
+I'm also a technology and gaming enthusiast (building personal computers) and a Linux fanatic. I currently use Ubuntu, Pop OS!, and Ubuntu Budgie.
+
+---
+ <div id="header" align="left">
+ 
+<h2 aling="left">Contact</h2>
+
+* :e-mail: sergiocasolco@gmail.com
+
+📬 Contact me on LinkedIn  
+[![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Casolco-darkblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocasolco/)
+
+ 
+
 
 <!--
 **SergeKazolk/SergeKazolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<!--
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-<!--
-## Sobre mi
-<!--
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
