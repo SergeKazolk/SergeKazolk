@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sergiocasolco/">Sergio Casolco</a> 👋</h1>
 </div>
 
-<img src="Banner Linkedin Creativo Rayas Sencillo Verde.jpg">
+<img src="Banner Linkedin Creativo Rayas Sencillo Verde_english.jpg">
 
 ## About me
 - Political scientist with experience in:
