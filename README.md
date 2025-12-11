@@ -5,7 +5,7 @@
 ---
  <div id="header" align="left">
 
-<img src="Banner Linkedin Creativo Rayas Sencillo Verde_english.jpg">
+<img src="Banner Linkedin Creativo Rayas Sencillo Verde (2).png">
 
 ---
  <div id="header" align="left">
